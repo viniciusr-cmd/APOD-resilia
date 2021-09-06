@@ -28,7 +28,8 @@ main {
     width: 25%;
     padding: 30px;
     word-spacing: 5px;
-    margin: 2% 2% 0% 2%
+    margin: 2% 2% 0% 2%;
+    align-items: center;
 }
 
 .title{
